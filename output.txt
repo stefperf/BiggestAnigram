@@ -1,0 +1,25 @@
+word length = 4: 3903 words, 3903 linkable words in 2674 anagram classes
+word length = 5: 8636 words, 8189 linkable words in 5872 anagram classes
+word length = 6: 15232 words, 13223 linkable words in 10047 anagram classes
+word length = 7: 23109 words, 18353 linkable words in 14827 anagram classes
+word length = 8: 28420 words, 19612 linkable words in 16868 anagram classes
+word length = 9: 24873 words, 14404 linkable words in 13114 anagram classes
+word length = 10: 20300 words, 8265 linkable words in 7808 anagram classes
+word length = 11: 15504 words, 3826 linkable words in 3678 anagram classes
+word length = 12: 11357 words, 1493 linkable words in 1430 anagram classes
+word length = 13: 7827 words, 451 linkable words in 441 anagram classes
+word length = 14: 5127 words, 131 linkable words in 126 anagram classes
+word length = 15: 3192 words, 26 linkable words in 26 anagram classes
+word length = 16: 1943 words, 2 linkable words in 2 anagram classes
+word length = 17: 1127 words, 0 linkable words in 0 anagram classes
+word length = 18: 594 words, 0 linkable words in 0 anagram classes
+word length = 19: 329 words, 0 linkable words in 0 anagram classes
+word length = 20: 160 words, 0 linkable words in 0 anagram classes
+word length = 21: 62 words, 0 linkable words in 0 anagram classes
+word length = 22: 30 words, 0 linkable words in 0 anagram classes
+word length = 23: 13 words, 0 linkable words in 0 anagram classes
+word length = 24: 9 words, 0 linkable words in 0 anagram classes
+word length = 25: 2 words, 0 linkable words in 0 anagram classes
+word length = 27: 2 words, 0 linkable words in 0 anagram classes
+word length = 28: 1 words, 0 linkable words in 0 anagram classes
+One of the biggest anigrams is into >> niton >> nitons >> intones >> mentions >> nominates >> antimonies >> inseminator >> terminations >> antimodernist >> determinations >> intermediations >> indeterminations
